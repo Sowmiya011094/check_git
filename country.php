@@ -9,11 +9,11 @@
 </head>
  
 <body>
-  <h1>Phone Number With Country Code</h1>
+ <!--  <h1>Phone Number With Country Code</h1>
   <form>
     <input id="phone" name="phone" type="tel">
     <button type="submit">Submit</button>
-  </form>
+  </form> -->
  
   <script src="build/js/intlTelInput.js"></script>
     <script>
